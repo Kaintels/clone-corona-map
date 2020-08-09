@@ -2,7 +2,7 @@ body{
     margin: 0px !important;
 }
 
-#navbar{
+#navBar{
     height: 50px;
     width : 100%;
     background: #262626;
@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-content: center;
 }
-#infobox{
+#infoBox{
     position: absolute;
     top: 100px;
     z-index: 10000;
@@ -27,4 +27,12 @@ body{
 #infoTitle{
     font-size: 15px;
     font-weight: bolder;
+}
+.marker{
+    border: 1px solid black;
+    background: green;
+    opacity: 0.8;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
 }
