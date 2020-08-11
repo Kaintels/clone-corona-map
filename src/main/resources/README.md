@@ -1,1 +1,0 @@
-# clone-corona-map
