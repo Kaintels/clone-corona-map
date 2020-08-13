@@ -10,7 +10,10 @@
 
 ## How to use
 
-run src\main\java\com\example\demo\DemoApplication.java
+1. open cmd
+2. type ```npm install```
+3. type ```node .\server.js```
+4. enjoy (However, you have to change ```ncpClientId``` in index.html)
 
 ## Reference
 
