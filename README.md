@@ -5,8 +5,7 @@
 
 ## Prerequisites
 
-* Java JDK > 11
-* Spring Boot
+* Node.js 12.18.3 LTS
 
 ## How to use
 
