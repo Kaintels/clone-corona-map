@@ -2,15 +2,15 @@
   "name": "clone-corona-map",
   "version": "1.0.0",
   "description": "코로나맵 클론코딩",
-  "main": "sever.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
     "nodejs": "^0.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1","
   },
   "repository": {
     "type": "git",
