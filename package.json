@@ -22,5 +22,5 @@
   },
   "homepage": "https://github.com/Kaintels/clone-corona-map#readme",
   "keywords": [],
-  "start": "node app.js"
+  "start": "node index.js"
 }
