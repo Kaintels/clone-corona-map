@@ -11,7 +11,7 @@
 
 1. open cmd
 2. type ```npm install```
-3. type ```node .\server.js```
+3. type ```node .\app.js```
 3. type ```localhost:8080``` in cmd
 4. enjoy (However, you have to change your ```ncpClientId``` in index.html)
 
