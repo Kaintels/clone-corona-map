@@ -21,5 +21,6 @@
     "url": "https://github.com/Kaintels/clone-corona-map/issues"
   },
   "homepage": "https://github.com/Kaintels/clone-corona-map#readme",
-  "keywords": []
+  "keywords": [],
+  "start": "node app.js"
 }
